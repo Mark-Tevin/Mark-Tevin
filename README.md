@@ -2,16 +2,29 @@
 
 Software Engineer (SWE) specializing in Backend development | AWS Cloud | Devops
 
-Skills and Expertise
-Programming Languages: Python (Numpy, Tensorflow, Scikit-Learn), C, SQL, Nextjs, JavaScript, HTML, CSS
+## About Me
+I am proficient in JavaScript | React | Next JS | Python | AWS and a variety of backend tools. Also skilled in MERN Stack. Committed to crafting clean, efficient code and driving innovation in every project. Passionate about collaborating with dynamic teams to create impactful solutions and continuously advancing in the field of Backend development.
 
-Machine Learning and Deep Learning:
+## Skills
+Languages: JavaScript, TypeScript, C, Python, Java
 
-Supervised Learning: Linear Regression, Logistic Regression, Neural Networks, CNNs, Computer Vision (Object Detection, Image Segmentation, Face Recognition/Verification
-Unsupervised Learning: Bayesian Optimization, Clustering, k-means, GMMs, Dimensionality Reduction, autoencoders, 
-Reinforcement Learning: Monte Carlo, TD(λ), SARSA(λ), Q-learning, Policy Gradients, KerasRL
-Data Visualization: Matplotlib, Seaborn, Pandas
+Fullstack Frameworks: React, Next.js
 
-Cloud: AWS (EC2, S3)
+UI: Tailwind CSS, Bootstrap, shaadcn ui
+
+Backend: Node.js, Express.js
+
+Database: MongoDB, MySQL
+
+Package Manager: npm, yarn
+
+DBMS/ORM: Mongoose, Prisma, SQLAlchemy, 
+
+Tools and Software: Postman, Chrome Dev Tool, MS Excel, MS Word, MS PowerPoint
 
 Frameworks & Other: Git, Anaconda, Flask, Gunicorn, HAProxy, ufw, OpenSSL, Nginx, Apache, Docker, Vagrant, Bootstrap
+
+Version Control, DevOps & OS: Git & GitHub, Windows, Linux
+
+## Currently Learning
+Cloud: AWS CLOUD
