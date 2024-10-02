@@ -1,6 +1,6 @@
-## Hi I am Mark Tevin 👋
+## Hi I am Mark Tevin 😎
 
-Software Engineer (SWE) specializing in Frontend development
+Software Engineer (SWE) specializing in Backend development | AWS Cloud | Devops
 
 Skills and Expertise
 Programming Languages: Python (Numpy, Tensorflow, Scikit-Learn), C, SQL, Nextjs, JavaScript, HTML, CSS
