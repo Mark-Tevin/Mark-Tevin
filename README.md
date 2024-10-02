@@ -1,6 +1,6 @@
 ## Hi I am Mark Tevin 👋
 
-I am a Fullstack Software Engineer with a background in Business Information Technology and Data Science (Machine Learning). I love solving complex data and algorithmic problems and have extensive experience from ALX BOOTCAMP and working on personal Projects.
+Software Engineer (SWE) specializing in Frontend development
 
 Skills and Expertise
 Programming Languages: Python (Numpy, Tensorflow, Scikit-Learn), C, SQL, Nextjs, JavaScript, HTML, CSS
