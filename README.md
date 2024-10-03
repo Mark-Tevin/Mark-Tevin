@@ -28,3 +28,8 @@ Version Control, DevOps & OS: Git & GitHub, Windows, Linux
 
 ## Currently Learning
 Cloud: AWS CLOUD
+
+## Projects
+#### JavaScript Projects
+* [Realtime-Digital-Clock](https://mark-tevin.github.io/Realtime-Digital-Clock/)
+
