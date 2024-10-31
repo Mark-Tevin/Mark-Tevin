@@ -1,4 +1,6 @@
-## Hi I am Mark Tevin 😎
+## Hi 👋 I am Mark Tevin
+
+## Professional Nextjs Developer
 
 Software Engineer (SWE) specializing in Backend development | AWS Cloud | Devops
 
