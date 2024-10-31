@@ -2,7 +2,7 @@
 
 ## Professional Nextjs Developer
 
-Software Engineer (SWE) specializing in Backend development | AWS Cloud | Devops
+Software Engineer 💻 Passionate about continuous growth and development.
 
 ## About Me
 I am proficient in Next JS && Python | AWS and a variety of backend technologies. Also skilled in MERN Stack. Committed to crafting clean, efficient code and driving innovation in every project. Passionate about collaborating with dynamic teams to create impactful solutions and continuously advancing in the field of Backend development.
