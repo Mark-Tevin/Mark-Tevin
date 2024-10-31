@@ -5,7 +5,15 @@
 Software Engineer (SWE) specializing in Backend development | AWS Cloud | Devops
 
 ## About Me
-I am proficient in JavaScript | React | Next JS | Python | AWS and a variety of backend tools. Also skilled in MERN Stack. Committed to crafting clean, efficient code and driving innovation in every project. Passionate about collaborating with dynamic teams to create impactful solutions and continuously advancing in the field of Backend development.
+I am proficient in Next JS && Python | AWS and a variety of backend technologies. Also skilled in MERN Stack. Committed to crafting clean, efficient code and driving innovation in every project. Passionate about collaborating with dynamic teams to create impactful solutions and continuously advancing in the field of Backend development.
+
+* 🌱 I’m currently learning React JS and AWS Cloud
+
+* 👨‍💻 All of my projects are available at https://github.com/Mark-Tevin
+
+* 📝 I regularly write articles on https://medium.com/@tevinsmark
+
+* 📫 How to reach me tevinsmark@gmail.com
 
 ## Skills
 Languages: JavaScript, TypeScript, C, Python, Java
