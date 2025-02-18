@@ -1,48 +1,61 @@
-## Hi 👋 I am Mark Tevin
+## Hi 👋 I am Tevin Mark Simiyu
 
-## Professional Nextjs Developer
+## Professional Nextjs Developer || Business Information Technology Professional | Software Engineer | Cloud & DevOps Enthusiast
 
 Software Engineer 💻 Passionate about continuous growth and development.
 
 ## About Me
-I am proficient in Next JS && Python | AWS and a variety of backend technologies. Also skilled in MERN Stack. Committed to crafting clean, efficient code and driving innovation in every project. Passionate about collaborating with dynamic teams to create impactful solutions and continuously advancing in the field of Backend development.
+I am a passioate Software Engineer with a strong foundation in Business Information Technology. My Unique combination of business acumen and technical expertise allows me to develop scalable solutions while maintaining a strategic focus on business growth.
 
-* 🌱 I’m currently learning React JS and AWS Cloud
-
-* 👨‍💻 All of my projects are available at https://github.com/Mark-Tevin
-
-* 📝 I regularly write articles on https://medium.com/@tevinsmark
+* 🎓 Background in Business Information Technology
+* 🚀 ALX Africa Software Engineering Graduate
+* ☁️ AWS Cloud and DevOps Specialist
+* 📊 Experienced in Data Analysis and Market Research
+* 🌱 Currently focusing on Cloud Architecture and Scalable Solutions
+* ⚡ Fun fact: I bridge the gap between business strategy and technical implementation!
 
 * 📫 How to reach me tevinsmark@gmail.com
 
-## Skills
-Languages: JavaScript, TypeScript, C, Python, Java
+## 🛠️ Technical Skills
 
-Fullstack Frameworks: React, Next.js
+### Languages & Frameworks
+```
+Frontend: Next.js | React | HTML5 | CSS3 | JavaScript
+Backend: Python | Node.js | Express.js
+Cloud: AWS Services
+Databases: MySQL | PostgreSQL
+DevOps: CI/CD | Infrastructure as Code
+```
 
-UI: Tailwind CSS, Bootstrap, shaadcn ui
+### Development Tools & Platforms
+```
+Cloud Platforms: AWS
+Containerization: Docker
+Version Control: Git and GitHub
+CI/CD: Jenkins | GitHub Actions
+Infrastructure: Terraform | Ansible
+Monitoring: Prometheus | Grafana
+```
 
-Backend: Node.js, Express.js
+## 💼 Professional Skills
+* 🏗️ Software Engineering
+* ☁️ Cloud Architecture
+* 📊 Data Analysis
+* 📈 Market Research
+* 🤝 Customer Relations
+* 📝 Technical Documentation
 
-Database: MongoDB, MySQL
+## 🎯 Current Focus
+* Implementing DevOps best practices
+* Building scalable cloud solutions on AWS
+* Developing modern applications with Next.js
+* Contributing to open-source projects
+* Exploring cloud-native architectures
 
-Package Manager: npm, yarn
-
-DBMS/ORM: Mongoose, Prisma, SQLAlchemy, 
-
-Tools and Software: Postman, Chrome Dev Tool, MS Excel, MS Word, MS PowerPoint
-
-Frameworks & Other: Git, Anaconda, Flask, Gunicorn, HAProxy, ufw, OpenSSL, Nginx, Apache, Docker, Vagrant, Bootstrap
-
-Version Control, DevOps & OS: Git & GitHub, Windows, Linux
-
-## Currently Learning
-Cloud: AWS CLOUD
 
 ## Projects
 #### JavaScript Projects
 * [Realtime-Digital-Clock]▶️ Live Demo(https://mark-tevin.github.io/Realtime-Digital-Clock/)
-
 
 📚 Blogs Post
 
