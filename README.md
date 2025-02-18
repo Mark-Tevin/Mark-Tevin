@@ -60,3 +60,9 @@ Monitoring: Prometheus | Grafana
 📚 Blogs Post
 
 
+📫 Connect With Me
+
+📧 Email: [tevinsmark@gmail.com]
+📱 Phone: [+254745919252]
+💼 LinkedIn: [https://www.linkedin.com/in/mark-tevin/]
+🌐 GitHub: [Mark-Tevin]
