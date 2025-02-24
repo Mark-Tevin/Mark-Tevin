@@ -1,6 +1,6 @@
 ## Hi 👋 I am Tevin Mark Simiyu
 
-## Professional Nextjs Developer || Business Information Technology Professional | Software Engineer | Cloud & DevOps Enthusiast
+## Prof Nextjs Developer || Business Information Technology Professional | Software Engineer | Cloud & DevOps Enthusiast
 
 Software Engineer 💻 Passionate about continuous growth and development.
 
