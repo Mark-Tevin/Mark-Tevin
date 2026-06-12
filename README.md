@@ -5,7 +5,7 @@
 Software Engineer 💻 Passionate about continuous growth and development.
 
 ## About Me
-I am a passioate Software Engineer with a strong foundation in Business Information Technology. My Unique combination of business acumen and technical expertise allows me to develop scalable solutions while maintaining a strategic focus on business growth.
+I am a passionate Software Engineer with a strong foundation in Business Information Technology. My Unique combination of business acumen and technical expertise allows me to develop scalable solutions while maintaining a strategic focus on business growth.
 
 * 🎓 Background in Business Information Technology
 * 🚀 ALX Africa Software Engineering Graduate
