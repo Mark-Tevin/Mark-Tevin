@@ -1,17 +1,25 @@
 ## Hi 👋 I am Tevin Mark Simiyu
 
-## Prof Nextjs Developer || Business Information Technology Professional | Software Engineer | Cloud & DevOps Enthusiast
+## Software Engineer | Data Scientist | AI & Data Engineering | Cloud & DevOps
 
 Software Engineer 💻 Passionate about continuous growth and development.
 
 ## About Me
-I am a passionate Software Engineer with a strong foundation in Business Information Technology. My Unique combination of business acumen and technical expertise allows me to develop scalable solutions while maintaining a strategic focus on business growth.
+I am a Software Engineer and Data Science professional focused on building practical, scalable, and intelligent technology solutions. My Unique combination of business acumen and technical expertise allows me to develop scalable solutions while maintaining a strategic focus on business growth. My interests and experience span **software engineering, Syetem administration, Python, data analytics, artificial intelligence, cloud computing, DevOps, APIs, and databases**. I enjoy turning business and technical requirements into reliable solutions while continuously learning and exploring emerging technologies.
 
 * 🎓 Background in Business Information Technology
-* 🚀 ALX Africa Software Engineering Graduate
-* ☁️ AWS Cloud and DevOps Specialist
+* 🎓 Currently pursuing a **Master’s in Data Science**
+* 💻 Software Engineering experience with Python, Django, APIs and modern web technologies
+* ☁️ AWS Cloud and DevOps
 * 📊 Experienced in Data Analysis and Market Research
 * 🌱 Currently focusing on Cloud Architecture and Scalable Solutions
+* 🤖 Experience in AI data operations, including LLM evaluation, data annotation, validation and quality assurance
+* 📊 Interested in Data Engineering, Data Science and Machine Learning
+* ☁️ AWS, Docker, Kubernetes and CI/CD
+* 🗄️ Experience working with PostgreSQL and MySQL
+* 🔧 Interested in building scalable, cloud-based and data-driven applications
+* 🚀 Continuously developing my skills in AI, cloud and enterprise technology
+
 * ⚡ Fun fact: I bridge the gap between business strategy and technical implementation!
 
 * 📫 How to reach me tevinsmark@gmail.com
@@ -59,9 +67,9 @@ Monitoring: Prometheus | Grafana
 
 📚 Blogs Post
 
+I am particularly interested in using software, data and AI to solve business problems and improve operational efficiency.
 
 📫 Connect With Me
-
 📧 Email: [tevinsmark@gmail.com]
 📱 Phone: [+254745919252]
 💼 LinkedIn: [https://www.linkedin.com/in/mark-tevin/]
