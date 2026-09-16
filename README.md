@@ -1,6 +1,6 @@
 ## Hi 👋 I am Tevin Mark Simiyu
 
-## Software Engineer | Data Scientist | AI & Data Engineering | Cloud & DevOps
+## Software Engineer | Data Scientist | AI & Data | Cloud & DevOps
 
 Software Engineer 💻 Passionate about continuous growth and development.
 
