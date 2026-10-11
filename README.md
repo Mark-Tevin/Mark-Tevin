@@ -4,7 +4,7 @@
 
 I’m a data and technology professional passionate about transforming data into actionable insights and building practical solutions that help organizations make better decisions.
 
-My background combines **Business Information Technology, data analytics, software engineering, AI data operations, and cloud technologies**. I enjoy working across the data lifecycle—from exploring and analyzing datasets to developing applications, automating workflows, and building reliable data-driven solutions.
+My background combines **Business Information Technology, data analytics, software engineering, AI data operations, and cloud technologies**. I enjoy working across the data lifecycle, from exploring and analyzing datasets to developing applications, automating workflows, and building reliable data-driven solutions.
 
 I bring a technical perspective to business problems, combining analytical thinking with software development and systems knowledge to improve reporting, streamline processes, and deliver meaningful insights.
 
