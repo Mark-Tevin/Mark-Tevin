@@ -93,7 +93,8 @@ Explore my repositories to see my work and ongoing development.
 
 I'm interested in connecting with professionals, recruiters, and organizations working in data analytics, business intelligence, data science, and enterprise technology.
 
-📧 **Email:** tevinsmark@gmail.com  
+📧 **Email:** tevinsmark@gmail.com
+**PORTFOLIO:** [My Portfolio Projects](https://mark-tevin.github.io/Tevinanalyst.github.io/#)
 💼 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/mark-tevin/)  
 💻 **GitHub:** [Mark-Tevin](https://github.com/Mark-Tevin)
 
