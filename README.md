@@ -1,6 +1,6 @@
 # Hi 👋, I'm Tevin Mark Simiyu
 
-### Data Analyst | Business Intelligence & Advanced Analytics | Python, SQL, Power BI & Enterprise Data Systems
+### Data Analyst | Business Intelligence & Advanced Analytics | Python, SQL, Power BI & Enterprise Data Systems | Software Engineer
 
 I’m a data and technology professional passionate about transforming data into actionable insights and building practical solutions that help organizations make better decisions.
 
